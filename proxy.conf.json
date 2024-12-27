@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "https://www.bitsathy.ac.in",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
+  
